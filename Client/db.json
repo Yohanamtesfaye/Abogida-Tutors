@@ -1,0 +1,93 @@
+{
+  "tutors":[
+    {
+      "id":"1",
+      "totalEarning": "0.0",
+      "ntotalJob":"0",
+      "nongoingJob":"0",
+      "nTotaldays":"0",
+      "bio" :"A 3rd year software Enginnering Student with a 3.3 CGPA",
+      "name": "someone someone",
+      "email": "someone@gmail.com",
+      "Uni":"Addis Ababa Science and Technology",
+      "education": "software Enginnering",
+      "level":["preschool","Elementary School"],
+      "workingDay":["monday", "Tuesday", "Wednesday"],
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "image" : "https://th.bing.com/th/id/OIP.Qvf9UmzJS1V5YafT9NQZlAHaKL?w=142&h=195&c=7&r=0&o=5&pid=1.7",
+      "location": "aastu",
+      "virtual": "false",
+      "rating":"5",
+      "subjects": ["Biology", "Chemistry", "Physics"]
+
+    },
+    {
+      "id":"2",
+      "name": "someone",
+      "totalEarning": "0.0",
+      "ntotalJob":"0",
+      "nongoingJob":"0",
+      "nTotaldays":"0",
+      "bio" :"A 3rd year software Enginnering Student with a 3.3 CGPA",
+      "email": "someone@gmail.com",
+      "Uni":"Addis Ababa Science and Technology",
+      "education": "software Enginnering",
+      "level":["preschool","MiddleSchool"],
+      "workingDay":["monday", "Tuesday", "Wednesday"],
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "image" : "https://th.bing.com/th/id/OIP.Qvf9UmzJS1V5YafT9NQZlAHaKL?w=142&h=195&c=7&r=0&o=5&pid=1.7",
+      "location": "kality",
+      "virtual": "true",
+      "rating":"5",
+      "subjects": ["Biology", "Chemistry", "Physics"]
+
+    },
+    {
+      "id":"3",
+      "name": "someone",
+      "totalEarning": "0.0",
+      "ntotalJob":"0",
+      "nongoingJob":"0",
+      "nTotaldays":"0",
+      "bio" :"A 3rd year software Enginnering Student with a 3.3 CGPA",
+      "email": "someone@gmail.com",
+      "Uni":"Addis Ababa Science and Technology",
+      "education": "software Enginnering",
+      "level":["preschool","Elementary School"],
+      "workingDay":["monday", "Tuesday", "Wednesday"],
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "image" : "https://th.bing.com/th/id/OIP.Qvf9UmzJS1V5YafT9NQZlAHaKL?w=142&h=195&c=7&r=0&o=5&pid=1.7",
+      "location": "kality",
+      "virtual": "true",
+      "rating":"5",
+      "subjects": ["Biology", "Chemistry", "Physics"]
+
+    }
+  ],
+  "client":[
+    {
+      "id":"1",
+      "name": "someclient",
+      "email": "someone@gmail.com",
+      "level":["preschool","Elementary School"],
+      "workingDay":["monday", "Tuesday", "Wednesday"],
+      "location": "kality",
+      "virtual": "true",
+      "subjects": ["Biology", "Chemistry", "Physics"],
+      "phnum": "090000000"
+
+    },
+    {
+      "id":"2",
+      "name": "someclient",
+      "email": "someone@gmail.com",
+      "level":["preschool","Elementary School"],
+      "workingDay":["monday", "Tuesday", "Wednesday"],
+      "location": "kality",
+      "virtual": "true",
+      "subjects": ["Biology", "Chemistry", "Physics"],
+      "phnum": "090000000"
+
+    }
+  ]
+}

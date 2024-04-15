@@ -1,0 +1,139 @@
+body{
+  background-color:#F4EDE4;
+}
+
+.form-container {
+  
+  max-width: 800px;
+  margin: 0 auto;
+  margin-top: 50px;
+  padding: 20px;  
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background: white;
+  background-attachment: fixed;
+  align-items: center;
+}
+.form-container h1{
+  /* color: rgb(35, 50, 50); */
+  text-align: center;
+  text-shadow: #929f97;
+text-decoration: underline;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 50px;  
+margin: 0px;
+padding: 0px;
+
+}
+#user{
+  float: left;
+}
+#select{
+  width: 100%;
+  padding-top: 5px;
+  padding-bottom: 10px;
+
+}
+#Maths{
+  background: url("https://st2.depositphotos.com/2673929/6809/i/450/depositphotos_68092891-stock-illustration-advanced-calculus.jpg");
+}
+/* #Maths{
+  background-color:rgb(203, 223, 202);
+  color: #5e3334;
+  padding-top: 15px;
+}
+#Chemistry{
+  background-color:lightblue;
+  color: #5e3334;
+}
+#Psychology{
+  background-color:rgb(203, 223, 202);
+  color: #5e3334;
+}
+#Geography{
+  background-color:lightblue ;
+  color: #5e3334;
+}
+#Physics{
+  background-color:rgb(203, 223, 202);
+  color: #5e3334;;
+}
+#Economics{
+  background-color:lightblue ;
+  color: #5e3334;
+}
+#Logic{
+  background-color:rgb(203, 223, 202);
+  color: #5e3334;
+}
+#C{
+  background-color:lightblue ;
+  color: #5e3334;
+}
+#Others{
+  background-color:rgb(203, 223, 202);
+  color: #5e3334;
+} */
+
+.form-container label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+  color: black;
+}
+.input-container {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 15px;
+}
+
+.input-container div {
+  flex: 1;
+  margin-right: 10px;
+}
+
+.input-container div:last-child {
+  margin-right: 0;
+}
+
+
+.form-container input[type="text"],
+.form-container input[type="email"],
+.form-container input[type="password"] {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  box-sizing: border-box;
+}
+
+.form-container input[type="submit"] {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 3px;
+  background-color: #007bff;
+  color: #fff;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+
+#button{
+  width: 100%;
+  padding: 15px;
+  border: none;
+  border-radius: 3px;
+  background-color: #4a154b;
+  color: #fff;
+  font-size: 16px;
+  cursor: pointer;
+}
+#p1{
+  align-items: center;
+  text-align: center;
+  color: black;
+}
+#Link{
+  color: #007bff;}
